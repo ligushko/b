@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+      <meta charset=UTF-8" name="keywords" content="бутылка, сидеть, наслаждение, искусство, хобби" name="description" content="Все, что нужно знать, чтобы присесть на бутылку">
+      
+    <title>набутыливание</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header> <h1 style="color: blueviolet;">сидение на бутылке как хобби и искусство</h1></header>
+    <main>
+        <nav>Псст! Чем по жизни интересуешься?</nav>
+        <article>Присаживайся!</article>
+        <section> 
+            <style>
+                h2 {
+                  color: forestgreen;
+                }
+                </style>
+            <h2 style="color: forestgreen;">огромный выбор бутылок</h2>
+            <h3>Выбираем форму</h3>
+                <img src="images/bot1.jpg" width="200" height="100" alt="многообразие форм и размеров">
+            
+            
+            <h4>Параметры, влияющие на посадку</h4>
+                <ol>
+                    <li>высота</li>
+                    <li>ширина</li>
+                    <li>форма горлышка</li>
+                    </ol>
+            
+                    
+           
+        
+            
+            <h3>Так ли важен цвет</h3>
+                <img src="https://static.norma.uz/images/147828_5308554e238ed3dc026f026d4226.jpg" width="200" height="100" alt="многообразие форм и размеров">
+            
+                <h4>По цвету бутылки разделяются на:</h4>
+                <ul>
+                    <li>цветные</li>
+                    <li>прозрачные</li>
+                </ul>
+            
+            <h3>Пластиковая бутылка твой враг</h3>
+                <img src="https://diddlybop.ru/wp-content/uploads/2013/09/butilka_01.jpg" width="200" height="100" alt="пластиковые убийцы">
+                <h4>выбери названия только стеклянной тары</h4>
+                <label for="баклажка">
+                    <input id="баклажка" type="checkbox" name="тара"> баклажка
+                </label>
+                <label for="чебурашка">
+                    <input id="чебурашка" type="checkbox" name="тара"> чебурашка
+                </label>
+            
+        </section>
+        <section> <h2>преимущества сидячих поз</h2>
+            <label for="в полуприседе"> 
+                <input id="в полуприседе" type="radio" name="присед-корты"> в полуприседе
+
+            </label>
+            <label for="на кортах"> 
+                <input id="в на кортах" type="radio" name="присед-корты"> на кортах
+
+            </label>
+        </section>
+        <aside>Купить Б/У бутылку</aside>
+    </main>
+  </body>
+  <footer>
+      Обутыленно?
+      <form> 
+          <input type="text" placeholder="соглашусь!" required> 
+          <button type="submit"> ОКДА</button>
+        </form>
+    </footer>
+</html>
